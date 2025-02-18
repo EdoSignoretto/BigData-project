@@ -1,0 +1,1 @@
+BigData course project on parallelization of KMEANS, DBSCAN and GMM clustering algorithms with Spark. The project shows standard implementations, with libraries and their parallel versions with Spark support. A dataset of electrical consumption is used.
